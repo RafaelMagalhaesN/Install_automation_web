@@ -1,4 +1,4 @@
-### ![image.png](/.attachments/image-62194b0f-175a-411a-a157-602e3624ea61.png)
+### ![image.png](/imagens/01.png)
 
 Documento com os passos para instalação e configuração das ferramentas necessárias para automação de testes web utilizando o framework:
 
@@ -16,7 +16,7 @@ Documento com os passos para instalação e configuração das ferramentas neces
 
 - **CMDER** (Terminal para utilizar a linha de comando)
 
-### ![image.png](/.attachments/image-4abe1317-5742-4030-992f-d4bf8743ed73.png)
+### ![image.png](/.attachments/02.png)
 
 No processos de instalação, configuração e desenvolvimento das automações, iremos utilizar a linha de comando muitas vezes.
 
@@ -30,7 +30,7 @@ O CMDER entra como uma melhor alternativa para não utilizarmos o ”cmd”, a i
 
 **Dica:** Para facilitar, crie um atalho do arquivo **cmder.exe** na área de trabalho, isso evita ir sempre até o C: para abrir o CMDER.
 
-![image.png](/.attachments/image-22e7e902-683e-4776-a7be-35a02bae7190.png)
+![image.png](/imagens/cmder.png)
 
 ### ![image.png](/.attachments/image-b515fa3b-d0f3-443d-961e-1fa9ff659b9d.png)
 
