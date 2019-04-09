@@ -102,7 +102,7 @@ Ruby é a linguagem de programação que vamos utilizar para construir as automa
 
 ![image.png](/imagens/ruby.png)
 
-### ![tittle08.png](/imagens/08.png)
+### ![tittle08.png](/imagens/07_1.png)
 
 1. Para validar a instalação correta do Ruby, abra o **CMDER** e digite **ruby –v** 
 
@@ -110,7 +110,7 @@ Ruby é a linguagem de programação que vamos utilizar para construir as automa
 
 **(Caso o CMDER esteja aberto durante a instalação feche-o e refaça o step acima)**
 
-### ![tittle09.png](/imagens/09.png)
+### ![tittle09.png](/imagens/08.png)
 
 DevKit é um pacote de ferramentas que permite fazer build e usar extensões nativas em Ruby.
 
@@ -124,7 +124,7 @@ Os arquivos deverão ser extraídos no diretório **C:\Ruby23-x64\DevKit**\  ind
 
 ![image.png](/imagens/devkit.png)
 
-### ![tittle10.png](/imagens/10.png)
+### ![tittle10.png](/imagens/09.png)
 
 1. Agora, no CMDER, acesse a pasta onde foram extraídos os arquivos do DevKit:
 
@@ -139,7 +139,7 @@ Ao concluir esses steps, o Development Kit foi instalado.
 
 ![image.png](/imagens/devkit_2.png)
 
-### ![tittle11.png](/imagens/11.png)
+### ![tittle11.png](/imagens/10.png)
 
 É possível que ocorra problemas no download das gems do Ruby devido uma falha no certificado SSL, visto que o repositório padrão é uma URL HTTPS.
 
@@ -159,7 +159,7 @@ Para evitar esse tipo de problema, é possível alterar o repositório para uma 
 
 ![image.png](/imagens/ssl.png)
 
-### ![tittle12.png](/imagens/12.png)
+### ![tittle12.png](/imagens/11.png)
 
 Bundler é o gerenciador de dependências para projetos Ruby.
 
@@ -174,7 +174,7 @@ Após instalar o bundler, todas as dependências do projeto declaradas no arquiv
 
 ![image.png](/imagens/bundler.png)
 
-### ![tittle13.png](/imagens/13.png)
+### ![tittle13.png](/imagens/12.png)
 
 No caso do Firefox e outros navegadores, podemos utilizar o geckodriver.
 
@@ -186,6 +186,22 @@ Procure o bloco de downloads do release mais recente e clique no link do pacote 
 2. Extraia o conteúdo do arquivo baixado para a pasta **C:\Ruby23-x64\bin** (pasta de instalação do Ruby)
 
 ![image.png](/imagens/geckodriver.png)
+
+### ![image.png](/.attachments/13.png)
+
+Na automação de testes web é necessário ferramentas para fazer ligação dos scripts de automação com o navegador, e os drivers são para este fim.
+
+Nesse step vamos ver a instalação do Driver para o Chrome (chromedriver):
+
+1. Acesse http://chromedriver.chromium.org/ e clique no release mais recente.
+
+2. Na página que abriu clique em **chromedriver_win32.zip** (mesmo que sua máquina seja 64bits)
+
+3. Extraia o conteúdo do arquivo baixado para a pasta **C:\Ruby23-x64\bin** (pasta de instalação do Ruby)
+
+![image.png](/.attachments/chromedriver.png)
+
+
 
 
 
