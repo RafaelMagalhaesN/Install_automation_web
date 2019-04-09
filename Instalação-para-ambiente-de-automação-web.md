@@ -32,7 +32,7 @@ O CMDER entra como uma melhor alternativa para não utilizarmos o ”cmd”, a i
 
 ![image.png](/imagens/cmder.png)
 
-### ![image.png](/.attachments/image-b515fa3b-d0f3-443d-961e-1fa9ff659b9d.png)
+### ![image.png](/imagens/03.png)
 
 Sublime text é um editor de textos leve com suporte a plugins e vários outros recursos que auxiliam o desenvolvimento.
 
