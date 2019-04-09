@@ -187,7 +187,7 @@ Procure o bloco de downloads do release mais recente e clique no link do pacote 
 
 ![image.png](/imagens/geckodriver.png)
 
-### ![image.png](/.attachments/13.png)
+### ![image.png](/imagens/13.png)
 
 Na automação de testes web é necessário ferramentas para fazer ligação dos scripts de automação com o navegador, e os drivers são para este fim.
 
@@ -199,7 +199,7 @@ Nesse step vamos ver a instalação do Driver para o Chrome (chromedriver):
 
 3. Extraia o conteúdo do arquivo baixado para a pasta **C:\Ruby23-x64\bin** (pasta de instalação do Ruby)
 
-![image.png](/.attachments/chromedriver.png)
+![image.png](/imagens/chromedriver.png)
 
 
 
