@@ -16,7 +16,7 @@ Documento com os passos para instalação e configuração das ferramentas neces
 
 - **CMDER** (Terminal para utilizar a linha de comando)
 
-### ![tittle02.png](/imagens/01.png)
+### ![tittle02.png](/imagens/02.png)
 
 No processos de instalação, configuração e desenvolvimento das automações, iremos utilizar a linha de comando muitas vezes.
 
