@@ -1,4 +1,4 @@
-### ![image.png](/imagens/01.png)
+### ![tittle01.png](/imagens/01.png)
 
 Documento com os passos para instalação e configuração das ferramentas necessárias para automação de testes web utilizando o framework:
 
@@ -16,7 +16,7 @@ Documento com os passos para instalação e configuração das ferramentas neces
 
 - **CMDER** (Terminal para utilizar a linha de comando)
 
-### ![image.png](/imagens/01.png)
+### ![tittle02.png](/imagens/01.png)
 
 No processos de instalação, configuração e desenvolvimento das automações, iremos utilizar a linha de comando muitas vezes.
 
@@ -32,7 +32,7 @@ O CMDER entra como uma melhor alternativa para não utilizarmos o ”cmd”, a i
 
 ![image.png](/imagens/cmder.png)
 
-### ![image.png](/imagens/03.png)
+### ![tittle03.png](/imagens/03.png)
 
 Sublime text é um editor de textos leve com suporte a plugins e vários outros recursos que auxiliam o desenvolvimento.
 
@@ -46,7 +46,7 @@ Sublime text é um editor de textos leve com suporte a plugins e vários outros 
 
 ![image.png](/.attachments/image-cc6f9f06-4910-4a76-a12a-2ce4eae8102d.png)
 
-### ![image.png](/.attachments/image-067ac147-25c1-4543-887b-5f23e8584b4c.png)
+### ![tittle04.png](/.attachments/image-067ac147-25c1-4543-887b-5f23e8584b4c.png)
 
 O package control é um gerenciador de complementos do Sublime Text.
 
@@ -62,7 +62,7 @@ Existem várias extensões que facilitam o processo de desenvolvimento da automa
 
 ![image.png](/.attachments/image-00f9cc75-7494-4471-91b6-c584a754f766.png)
 
-### ![image.png](/.attachments/image-05457dd8-01af-4e05-b6ee-6e29baabf246.png)
+### ![tittle05.png](/.attachments/image-05457dd8-01af-4e05-b6ee-6e29baabf246.png)
 
 Com a Syntax Cucumber Gherkin habilitada, a visualização dos cenários é melhorada, destacando as palavras-chave.
 
@@ -78,7 +78,7 @@ O texto deve ficar formatado da seguinte forma:
 
 ![image.png](/.attachments/image-8c80e730-8f30-475d-997f-8e64c45844d0.png)
 
-### ![image.png](/.attachments/image-ca8a78f0-5bae-4c1c-b5c6-99b16302dd9d.png)
+### ![tittle06.png](/.attachments/image-ca8a78f0-5bae-4c1c-b5c6-99b16302dd9d.png)
 
 Nessa etapa vamos iniciar o setup da máquina com as configurações da linguagem de programação, framework e drivers.
 
@@ -88,7 +88,7 @@ Nessa etapa vamos iniciar o setup da máquina com as configurações da linguage
 - **Gems**
 - **Drivers do Chrome e Firefox**
 
-### ![image.png](/.attachments/image-b4097f77-76f9-49a3-a0a4-bc8410e62381.png)
+### ![tittle07.png](/.attachments/image-b4097f77-76f9-49a3-a0a4-bc8410e62381.png)
 
 Ruby é a linguagem de programação que vamos utilizar para construir as automações web (vamos usar a versão 2.3.3)
 
@@ -102,7 +102,7 @@ Ruby é a linguagem de programação que vamos utilizar para construir as automa
 
 ![image.png](/.attachments/image-74d062f1-b2df-4296-bf9f-473727f83197.png)
 
-### ![image.png](/.attachments/image-e0ef5d24-f066-48bd-b2f7-dc1379c3fa6e.png)
+### ![tittle08.png](/.attachments/image-e0ef5d24-f066-48bd-b2f7-dc1379c3fa6e.png)
 
 1. Para validar a instalação correta do Ruby, abra o **CMDER** e digite **ruby –v** 
 
@@ -110,7 +110,7 @@ Ruby é a linguagem de programação que vamos utilizar para construir as automa
 
 **(Caso o CMDER esteja aberto durante a instalação feche-o e refaça o step acima)**
 
-### ![image.png](/.attachments/image-20a4fbd2-9115-4127-b79c-5cddf5108989.png)
+### ![tittle09.png](/.attachments/image-20a4fbd2-9115-4127-b79c-5cddf5108989.png)
 
 DevKit é um pacote de ferramentas que permite fazer build e usar extensões nativas em Ruby.
 
@@ -124,7 +124,7 @@ Os arquivos deverão ser extraídos no diretório **C:\Ruby23-x64\DevKit**\  ind
 
 ![image.png](/.attachments/image-93339a19-3765-4107-9ae8-437fdaf69d76.png)
 
-### ![image.png](/.attachments/image-6405988d-22c3-40a4-9c4e-d29b78aad58a.png)
+### ![tittle10.png](/.attachments/image-6405988d-22c3-40a4-9c4e-d29b78aad58a.png)
 
 1. Agora, no CMDER, acesse a pasta onde foram extraídos os arquivos do DevKit:
 
@@ -139,7 +139,7 @@ Ao concluir esses steps, o Development Kit foi instalado.
 
 ![image.png](/.attachments/image-cf9de658-bf1b-4e8d-8b04-f4d62c0fdc2b.png)
 
-### ![image.png](/.attachments/image-d307f819-9fe7-4202-bbac-cb94d6e5bc4b.png)
+### ![tittle11.png](/.attachments/image-d307f819-9fe7-4202-bbac-cb94d6e5bc4b.png)
 
 É possível que ocorra problemas no download das gems do Ruby devido uma falha no certificado SSL, visto que o repositório padrão é uma URL HTTPS.
 
@@ -159,7 +159,7 @@ Para evitar esse tipo de problema, é possível alterar o repositório para uma 
 
 ![image.png](/.attachments/image-203514d5-b2bb-4b69-a633-e317b888a50b.png)
 
-### ![image.png](/.attachments/image-64a58c38-cb34-45a2-a322-3a5fe6466e90.png)
+### ![tittle12.png](/.attachments/image-64a58c38-cb34-45a2-a322-3a5fe6466e90.png)
 
 Bundler é o gerenciador de dependências para projetos Ruby.
 
@@ -174,7 +174,7 @@ Após instalar o bundler, todas as dependências do projeto declaradas no arquiv
 
 ![image.png](/.attachments/image-e812530d-daf1-4bdb-9bd1-c9d9d83773a4.png)
 
-### ![image.png](/.attachments/image-ea4702c1-d129-402d-a153-f7635c6fc3f0.png)
+### ![tittle13.png](/.attachments/image-ea4702c1-d129-402d-a153-f7635c6fc3f0.png)
 
 No caso do Firefox e outros navegadores, podemos utilizar o geckodriver.
 
